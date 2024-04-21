@@ -5,9 +5,15 @@ main:
   
   - title: "Publications"
     url: /publications/
-        
+
+  - title: "Code"
+    url: /code/
+  
   - title: "Daily Lessons"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Contact"
+    url: /contact/
