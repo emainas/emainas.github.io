@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Statistical Mechanics, Molecular Dynamics, QM/MM, CpHMD and other interesting topics!"
+title: "Hello there! Welcome to my Statistical Mechanics website 😃"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
