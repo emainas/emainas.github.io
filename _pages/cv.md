@@ -15,8 +15,7 @@ Education
 * M.A. in Chemistry, Brown University, USA, 2019
 * Ph.D in Chemistry, Brown University, USA, 2023 
   
-Teaching
+Teaching Assistant 
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Physical Chemistry: Quantum Mechanics, Brown University
+* Physical Chemistry: Statistical Mechanics, Brown University
