@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lefteris' Homepage!"
 title_separator          : "-"
-name                     : &name "Eleftherios Mainas"
+name                     : &name "Eleftherios (Lefteris) Mainas"
 description              : &description "personal description"
 url                      : https://emainas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eleftherios Mainas"
   avatar           : "profile.jpg"
-  bio              : "Theoretical chemist currently working as a postdoctoral researcher at UNC@Chapel Hill"
+  bio              : "Theoretical and computational chemist currently working as a postdoctoral researcher at UNC@Chapel Hill"
   location         : "Chapel Hill, NC"
   employer         :
   pubmed           : 
