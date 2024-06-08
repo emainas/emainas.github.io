@@ -10,3 +10,5 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 This paper is about functionalized magnetic nanoparticles and how they interact with lipid membranes. I set up and run long Molecular Dynamics simualtions of nanoparticle-lipid bilayer systems. 
 
 M. Lazaratos, K. Karathanou, E. Mainas, et al., Coating of magnetic nanoparticles affects their interactions with model cell membranes, BBA - General Subjects (2020), https://doi.org/10.1016/j.bbagen.2020.129671
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
