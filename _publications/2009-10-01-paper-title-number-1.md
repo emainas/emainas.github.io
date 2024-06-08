@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Coating of magnetic nanoparticles affects their interactions with model cell membranes"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is the result of my undergraduate research work in the Biomedical Research Foundation under the supervision of Dr. Zoe Cournia.'
+date: 2020-06-09 
+venue: 'Biochimica et Biophysica Acta (BBA) - General Subjects'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'M. Lazaratos, K. Karathanou, E. Mainas, et al., Coating of magnetic nanoparticles affects their interactions with model cell membranes, BBA - General Subjects (2020), https://doi.org/10.1016/j.bbagen.2020.129671'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the functionalized magnetic nanoparticles and how they interact with lipid membranes. I set up and run long Molecular Dynamics simualtions of nanoparticle-lipid bilayer systems. 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: M. Lazaratos, K. Karathanou, E. Mainas, et al., Coating of magnetic nanoparticles affects their interactions with model cell membranes, BBA - General Subjects (2020), https://doi.org/10.1016/j.bbagen.2020.129671
