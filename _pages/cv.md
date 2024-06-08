@@ -16,5 +16,5 @@ Education
   
 Teaching Assistant 
 ======
-* Physical Chemistry: Quantum Mechanics, Brown University
-* Physical Chemistry: Statistical Mechanics, Brown University
+* Physical Chemistry: Quantum Chemistry, Brown University
+* Physical Chemistry: Statistical Thermodynamics, Brown University
