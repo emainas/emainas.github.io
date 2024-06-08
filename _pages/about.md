@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lefteris and I am a theoretical/computational chemist. This website serves a dual purpose. Firstly, it provides me a platform to communicate and record the work that I have been doing. The second aspect is educational: Throughout the years of working as a theoretical/computational chemist I have accumulated knowledge and experience about various scientific topics and I wish to share that with everyone who is interested. 
+My name is Lefteris and I am a theoretical/computational chemist. This website serves one practical and one educational purpose. Firstly, it provides me a platform to record and demonstrate the work that I have been doing (like a more sophisticated CV). Secondly, I really enjoy communicating and teaching science and I intend to use the "Daily Lessons" tab in order to explain various complicated topics from thermodynamics, molecular simulations etc.. Feel free to visit the "Research" tab to know more and also to send me an email. 
