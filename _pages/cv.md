@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Chemistry, Athens University, Greece, 2017
-* M.A. in Chemistry, Brown University, USA, 2019
 * Ph.D in Chemistry, Brown University, USA, 2023 
   
 Teaching Assistant 
