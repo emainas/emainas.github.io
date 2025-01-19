@@ -10,6 +10,14 @@ redirect_from:
 
 My name is Eleftherios Mainas and I go by Lefteris. I am a theoretical and computational chemist and I love solving hard scientific problems with my pencil ✏️ and my laptop 💻 .
 
+I am interested in statistical mechanical theory, molecular simulations and quantum chemistry. I believe that the tools of computational chemistry can be a game changer in many important fields like drug discovery, fluorescence imaging and other important applications. 
+
+### About me
+
+In 2018 I moved from Athens, Greece to Providence, Rhode Island in the United States to pursue my Ph.D. under the supervision of [Richard Stratt](https://vivo.brown.edu/display/rstratt). I used [large-deviations theory](https://en.wikipedia.org/wiki/Large_deviations_theory) and probability methods to calculate rare configurations of systems close to criticality, where the fluctuations are large. After completion of my Ph.D. in 2023, I relocated to North Carolina where I work as a postdoctoral researcher with Dr. [Elisa Pieri](https://www.pierilab.com). I apply thermodynamics, simulations and quantum chemistry to the study of fluorescent protein complexes. 
+
+Feel free to send me an email for discussion, ideas or code. 
+
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
