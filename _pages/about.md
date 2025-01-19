@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My name is Eleftherios Mainas and I go by Lefteris. I am a theoretical and computational chemist and I love solving hard scientific problems with my pencil ✏️ and my laptop 💻 .
+My name is Eleftherios Mainas and I go by Lefteris. I am a theoretical and computational chemist and I love solving hard scientific problems with my laptop 💻 .
 
 I am interested in statistical mechanical theory, molecular simulations and quantum chemistry. I believe that the tools of computational chemistry can be a game changer in many important fields like drug discovery, fluorescence imaging and other important applications. 
 
