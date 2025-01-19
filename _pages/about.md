@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal homepage!"
+title: "Welcome to my computational chemistry homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,17 +18,17 @@ I am interested in statistical mechanical theory, molecular simulations and quan
 
 In 2018 I moved from Athens, Greece to Providence, Rhode Island in the United States to pursue my Ph.D. under the supervision of [Richard Stratt](https://vivo.brown.edu/display/rstratt). I used [large-deviations theory](https://en.wikipedia.org/wiki/Large_deviations_theory) and probability methods to calculate rare configurations of systems close to criticality, where the fluctuations are large. After completion of my Ph.D. in 2023, I relocated to North Carolina where I work as a postdoctoral researcher with Dr. [Elisa Pieri](https://www.pierilab.com). I apply thermodynamics, simulations and quantum chemistry to the study of fluorescent protein complexes. 
 
+### Writing code
+
+Code in computational chemistry should be clean, simple and efficient. Coding is part of my every day life and I use Python, C++ and bash to write simulations, analyze them and make plots that simply convey the important messages. Follow my github page or go under the Code section to follow my projects. 
+
 ### Teaching
 
 I have worked many years as a teaching assistant to statistical mechanical, quantum mechanical and general chemistry courses. It is a truly enjoyale experience to break down a complicated scientific idea into simpler pieces where students, or in general the audience, can understand. I am a firm believer that being a good communicator is an integral part to good science. After all, my hero in science is Richard Feynman - ["The Great Explainer"](https://archive.org/details/greatexplainerst0000levi). Follow the Teaching section where I post about interesting stuff that I tought as a TA in the past and currently as a postdoc-mentor to graduate students. 
 
 ### Reading papers and books
 
-Reading scientific papers and books is essential to having a deep understanding of how things work in science. A Brown University professor I met a few years told me that as a theoretician you should always be studying and reading. I will try to post about the stuff I read under the blog section or the teaching section but it is not easy because I read a lot. 
-
-### Writing code
-
-Code in computational chemistry should be clean, simple and efficient. Coding is part of my every day life and I use Python, C++ and bash to write simulations, analyze them and make plots that simply convey the important messages. Follow my github page or go under the Code section to follow my projects. 
+Reading scientific papers and books is essential to having a deep understanding of how things work in science. A Brown University professor I met a few years told me that as a theoretician you should always be studying and reading. I will try to post about the stuff I read under the blog section or the teaching section but it is not easy to post about everything because I read a lot. 
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
