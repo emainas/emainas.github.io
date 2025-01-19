@@ -12,15 +12,15 @@ My name is Eleftherios Mainas and I go by Lefteris. I am a theoretical and compu
 
 I am interested in statistical mechanical theory, molecular simulations and quantum chemistry. I believe that the tools of computational chemistry can be a game changer in many important fields like drug discovery, fluorescence imaging and other important applications. 
 
-### A few things about me...
+### A few things I like...
 
 ### Research
 
-In 2018 I moved from Athens, Greece to Providence, Rhode Island in the United States to pursue my Ph.D. under the supervision of [Richard Stratt](https://vivo.brown.edu/display/rstratt). I used [large-deviations theory](https://en.wikipedia.org/wiki/Large_deviations_theory) and probability methods to calculate rare configurations of systems close to criticality, where the fluctuations are large. After completion of my Ph.D. in 2023, I relocated to North Carolina where I work as a postdoctoral researcher with Dr. [Elisa Pieri](https://www.pierilab.com). I apply thermodynamics, simulations and quantum chemistry to the study of fluorescent protein complexes. 
+In 2018 I moved from Athens, Greece to Providence, Rhode Island in the United States to pursue my Ph.D. under the supervision of [Richard Stratt](https://vivo.brown.edu/display/rstratt). I used [large-deviations theory](https://en.wikipedia.org/wiki/Large_deviations_theory) and probability methods to calculate rare configurations of systems close to criticality, where the fluctuations are large. After completion of my Ph.D. in 2023, I relocated to North Carolina where I work as a postdoctoral researcher with Dr. [Elisa Pieri](https://www.pierilab.com). I apply thermodynamics, simulations and quantum chemistry to the study of fluorescent protein complexes. Go to the Publications section to read about my work and the CV section to learn more about me. 
 
 ### Writing code
 
-Code in computational chemistry should be clean, simple and efficient. Coding is part of my every day life and I use Python, C++ and bash to write simulations, analyze them and make plots that simply convey the important messages. Follow my github page or go under the Code section to follow my projects. 
+Code in computational chemistry should be clean, simple and efficient. Coding is part of my every day life as I use it to write simulations, analyze them and make plots that simply convey the important messages. Follow my github page or go under the Code section to follow my projects. 
 
 ### Teaching
 
