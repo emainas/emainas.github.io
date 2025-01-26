@@ -1,6 +1,6 @@
 ---
 title: "Angular momentum fluctuations in molecular simulations"
-excerpt: "Phase transition diagnostic tool. <br/><img src='/images/T10traj.png'>"
+excerpt: "Phase transition diagnostic tool of a 2D system . <br/><img src='/images/T10traj.png'>. The x and y coordinates of point particles that interact with a Lennard-Jones potential is shown."
 collection: portfolio
 tags:
   - Molecular Dynamics
@@ -12,7 +12,7 @@ tags:
 
 In Molecular Dynamics simulations, it is computationally impossible to calculate the interactions between $$10^{23}$$ particles (the order of Avogadro’s number). Modern computers can simulate systems up to the order of $$10^6$$ particles. 
 
-To simulate large systems, a small part is selected (the "unit cell"), and **periodic boundary conditions** are employed. This means that when a particle reaches the edge of the unit cell, it reappears from the other side with the same velocity. However, when periodic boundary conditions are employed, the total angular momentum of the unit cell is not conserved.
+To simulate large systems, a small part is selected (the "unit cell"), and [**periodic boundary conditions**](https://en.wikipedia.org/wiki/Periodic_boundary_conditions) are employed. This means that when a particle reaches the edge of the unit cell, it reappears from the other side with the same velocity. However, when periodic boundary conditions are employed, the total angular momentum of the unit cell is not conserved.
 
 ---
 
