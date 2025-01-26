@@ -20,11 +20,11 @@ In 2018 I moved from Athens, Greece to Providence, Rhode Island in the United St
 
 ### Writing code
 
-Code in computational chemistry should be clean, simple and efficient. Coding is part of my every day life as I use it to write simulations, analyze them and make plots that simply convey the important messages. Follow my github page or go under the Code section to follow my projects. 
+Code in computational chemistry should be clean, simple and efficient. Coding is part of my every day life as I use it to write simulations, analyze them and make plots that simply convey the important messages. Follow my github page and my portfolio for more.
 
 ### Teaching
 
-I have worked many years as a teaching assistant to statistical mechanical, quantum mechanical and general chemistry courses. It is a truly enjoyale experience to break down a complicated scientific idea into simpler pieces where students, or in general the audience, can understand. I am a firm believer that being a good communicator is an integral part to good science. After all, my hero in science is Richard Feynman - ["The Great Explainer"](https://archive.org/details/greatexplainerst0000levi). Follow the Teaching section where I post about interesting stuff that I tought as a TA in the past and currently as a postdoc-mentor to graduate students. 
+I have worked many years as a teaching assistant to statistical mechanical, quantum mechanical and general chemistry courses. It is a truly enjoyale experience to break down a complicated scientific idea into simpler pieces where students, or in general the audience, can understand. I am a firm believer that being a good communicator is an integral part to good science. After all, my hero in science is Richard Feynman - ["The Great Explainer"](https://archive.org/details/greatexplainerst0000levi).
 
 ### Reading papers and books
 
