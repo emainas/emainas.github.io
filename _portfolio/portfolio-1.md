@@ -10,3 +10,10 @@ tags:
   - Gay Berne potential
 ---
 
+### Resources
+
+- **Code** 💻: [Link to code repository](https://github.com/emainas/GayBerne_MolecularDynamics.git)
+
+---
+
+### Overview

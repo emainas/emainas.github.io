@@ -9,6 +9,13 @@ tags:
   - Phase Transitions
 ---
 
+### Resources
+
+- **White paper** 📄: [Download the PDF](/files/portfolio_1_file.pdf)
+- **Code** 💻: [Link to code repository](https://github.com/emainas/LennardJones_MolecularDynamics.git)
+
+---
+
 ### Overview
 
 In Molecular Dynamics simulations, it is computationally impossible to calculate the interactions between $$10^{23}$$ particles (the order of Avogadro’s number). Modern computers can simulate systems up to the order of $$10^6$$ particles. 
@@ -35,13 +42,6 @@ This study explores the relationship between angular momentum fluctuations and t
 The study aims to address the following question:
 
 > Suppose we have a two-dimensional tetragonal-shaped unit cell with \(N\) interacting particles. How are the fluctuations of angular momentum related to the physical characteristics of the system, and how can we exploit these relationships to diagnose finite-size system effects?
-
----
-
-### Resources
-
-- **White paper** 📄: [Download the PDF](/files/portfolio_1_file.pdf)
-- **Molecular Dynamics code** 💻: [Link to code repository](https://github.com/emainas/LennardJones_MolecularDynamics.git)
 
 ---
 
