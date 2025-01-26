@@ -1,6 +1,7 @@
 ---
 title: "Angular momentum fluctuations in molecular simulations"
-excerpt: "Phase transition diagnostic tool of a 2D system . <br/><img src='/images/T10traj.png'>. The x and y coordinates of point particles that interact with a Lennard-Jones potential is shown."
+excerpt: "Phase transition diagnostic tool of a 2D system. The x and y coordinates of point particles that interact with a Lennard-Jones potential is shown. <br/><img src='/images/T10traj.png'>
+"
 collection: portfolio
 tags:
   - Molecular Dynamics
