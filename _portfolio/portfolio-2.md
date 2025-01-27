@@ -1,6 +1,6 @@
 ---
 title: "Angular momentum fluctuations in molecular simulations"
-excerpt: "My first research project at Brown University when I was a first year Ph.D. student "Phase transition diagnostic tool of a 2D system". The x and y coordinates of point particles that interact with a Lennard-Jones potential is shown. <br/><img src='/images/T10traj.png'>"
+excerpt: "My first research project at Brown University when I was a first year Ph.D. student on a phase transition diagnostic tool of 2D atomistic systems. In the image below you see the x and y coordinates of point particles that interact with a Lennard-Jones potential. <br/><img src='/images/T10traj.png'>"
 collection: portfolio
 date: 2018-01-01
 tags:
