@@ -1,6 +1,6 @@
 ---
 title: "Statistical mechanics of lattice models"
-excerpt: "Add description. <br/><img src='/images/500x300.png'>"
+excerpt: "Add description. <br/><img src='/images/xymodel.png'>"
 collection: portfolio
 date: 2021-01-01
 tags:

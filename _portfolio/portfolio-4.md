@@ -1,6 +1,6 @@
 ---
 title: "Large-deviations theory of polymer end-to-end distances"
-excerpt: "Add description. <br/><img src='/images/500x300.png'>"
+excerpt: "Add description. <br/><img src='/images/randomwalk.jpeg'>"
 collection: portfolio
 date: 2022-01-01
 tags:
