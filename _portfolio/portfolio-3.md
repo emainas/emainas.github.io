@@ -1,6 +1,6 @@
 ---
 title: "Statistical mechanics of lattice models"
-excerpt: "Add description. <br/><img src='/images/xymodel.png' width='300' height='200'>"
+excerpt: "Lattice models like the Ising and the XY model provide a playground for rigorous statistical mechanical analysis. <br/><img src='/images/xymodel.png' width='300' height='200'>"
 collection: portfolio
 date: 2021-01-01
 tags:
@@ -16,11 +16,5 @@ tags:
 - **White paper** 📄: [Read my tutorial on Monte Carlo simulations](/files/mc_tutorial.pdf)
 - **White paper** 📄: [Read my tutorial on large-deviations theory of magnetism](/files/ldt_magnetism.pdf)
 - **Monte Carlo and large-deviations theory Code** 💻: [Link to GitHub repository](https://github.com/emainas/latticemodels.git)
-
----
-
-### Overview
-
-
 
 ---

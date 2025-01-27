@@ -16,9 +16,3 @@ tags:
 - **Random Walk Code** 💻: [Link to GitHub repository](https://github.com/emainas/SelfAvoidingRandomWalk.git)
 
 ---
-
-### Overview
-
-
-
----
