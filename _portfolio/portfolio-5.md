@@ -1,6 +1,6 @@
 ---
 title: "Molecular Dynamics simulations of polymer coated magnetic nanoparticles interfacing with lipid bilayers"
-excerpt: " <br/><img src='/images/np.png' width='300' height='300'>"
+excerpt: "This is the work I did as an undergrad in the University of Athens, Greece. I like to keep it in my portfolio to remind myself were I started and how far I have come in my research journey. <br/><img src='/images/np.png' width='400' height='400'>"
 collection: portfolio
 date: 2017-01-01
 tags:
