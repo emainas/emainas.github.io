@@ -13,9 +13,9 @@ tags:
 ### Resources
 
 - **Thesis** 📄: [Read Chapters 1, 4 and 6](https://www.proquest.com/docview/3060673874?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
-- **Published paper** 📄: [Read my paper in the Journal of Chemical Physics](https://www.proquest.com/docview/3060673874?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
+- **Published paper** 📄: [Read my paper in the Journal of Chemical Physics](https://pubs.aip.org/aip/jcp/article-abstract/162/2/024501/3329531/Exceptionally-large-fluctuations-in-orientational?redirectedFrom=fulltext)
 - **Molecular Dynamics Code** 💻: [Link to GitHub repository](https://github.com/emainas/GayBerne_MolecularDynamics.git)
-- **Large-deviations theory Code** 💻: [Link to GitHub repository](https://github.com/emainas/largedeviations-liquidcrystals.git)
+- **Large-deviations theory and Finite size scaling Code** 💻: [Link to GitHub repository](https://github.com/emainas/largedeviations-liquidcrystals.git)
 
 ---
 
