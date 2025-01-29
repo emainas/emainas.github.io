@@ -16,7 +16,3 @@ tags:
 - **Presentation I gave on my paper** : [Click here](/files/pres2.pdf)
 
 ---
-
-### Overview
-
----
