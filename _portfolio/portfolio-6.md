@@ -1,6 +1,6 @@
 ---
 title: "Calculating the pKa shift of a ligand inside a protein"
-excerpt: "Computational titration of a small (~75 atoms) organic ligand, called Biliverdin inside the fluorescent protein Sandercyanin. Biliverdin works as the chromophore and when it is inside the protein the pKa of the two propionic chains shifts dramatically. <br/><img src='/images/fig1.png' width='450' height='450'>"
+excerpt: "Computational titration of a small (~75 atoms) organic ligand, called Biliverdin (B part of image below) inside the fluorescent protein Sandercyanin (A part of image below). Biliverdin works as the chromophore and when it is inside the protein the pKa of the two propionic chains shifts dramatically. <br/><img src='/images/fig1.png' width='500' height='500'>"
 collection: portfolio
 date: 2024-01-01
 tags:
